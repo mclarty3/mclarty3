@@ -40,6 +40,4 @@ Away from the computer, I like to:
   <a href="https://ryanmclarty.me/"><img src="https://www.nicepng.com/png/full/109-1090449_white-website-png-svg-stock-icon.png" style="width: 10%;"></img></a>
 &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ryanrmclarty/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width: 10%;"></img></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/iamryanhello"><img src="https://www.torqlite.com/wp-content/uploads/2017/02/60414c58e954d7236837248225e0216f_new-twitter-logo-vector-eps-twitter-logo-clipart_518-518.png" style="width: 10%;"></img></a>
 </p>
