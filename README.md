@@ -7,9 +7,9 @@ I'm a recent graduate from Fordham University. I received my Bachelor's in Compu
 Science with a minor in Mathematics in 2021, and completed my Master's in C.S. with
 a concentration in A.I. in 2022.
 
-I currently work as a Research Analyst for Gro Intelligence, a climate and agriculture
-data startup in NYC. I perform analysis on large and diverse datasets and build interactive
-web applications to present the data.
+I currently work as an Analyst Developer for Gro Intelligence, a climate and agriculture
+data startup in NYC. I perform analysis on large and diverse datasets, and build interactive
+web applications to visualize and allow users to interact with the data.
 
 Away from the computer, I like to: 
 - 📖 read (typically nonfiction, though I'm currently really enjoying The Three Body Problem)
