@@ -3,21 +3,17 @@
 Programmer, musician, player and creator of video games
 
 ## About Me
-I'm a recent graduate from Fordham University. I received my Bachelor's in Computer
-Science with a minor in Mathematics in 2021, and completed my Master's in C.S. with
-a concentration in A.I. in 2022.
+I graduated from Fordham University in 2022 with my bachelor's and master's in computer science, with a concentration in artificial intelligence.
 
-I currently work as an Analyst Developer for Gro Intelligence, a climate and agriculture
-data startup in NYC. I perform analysis on large and diverse datasets, and build interactive
-web applications to visualize and allow users to interact with the data.
+Professionally, I'm experienced with full-stack development, time series forecasting, and LLM integrations including RAG-based chatbots.
 
 Away from the computer, I like to: 
 - 📖 read (typically nonfiction, though I'm currently really enjoying The Three Body Problem)
 - 🎺 play music (I play the trumpet and mess around on the keyboard)
 - 🛹 skate
-- 🍴 try new eateries around the city.
+- 🍴 try new eateries around the city
 ## 🛠 Skills
-- I use daily: `python` `pandas` `css`
+- I use daily: `python` `sklearn` `pandas` `css`
 - I know my way around: `c#` `html` `javascript` `lua`
 - I've dabbled with: `c++` `java` `bash`
 
@@ -25,9 +21,7 @@ Away from the computer, I like to:
 
 🧔‍♂️ Pronouns: he/him
 
-👩‍💻 I've recently been creating lua addons for a Garry's Mod server
-
-🧠 I'm currently working on gaining more hands on experience with machine learning
+👩‍💻 I've recently been working on a Counter-Strike match prediction model
 
 💬 Hit me up about learning [dvorak](https://www.wikiwand.com/en/Dvorak_keyboard_layout)
 
