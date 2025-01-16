@@ -5,7 +5,7 @@ Programmer, musician, player and creator of video games
 ## About Me
 I graduated from Fordham University in 2022 with my bachelor's and master's in computer science, with a concentration in artificial intelligence.
 
-Professionally, I'm experienced with full-stack development, time series forecasting, and LLM integrations including RAG-based chatbots.
+Professionally, I'm experienced with full-stack development, time series forecasting, and LLM integrations including RAG-based chatbots, as well as copious amounts of internal tool development with python, bash, awscli, and docker.
 
 Away from the computer, I like to: 
 - 📖 read (typically nonfiction, though I'm currently really enjoying The Three Body Problem)
